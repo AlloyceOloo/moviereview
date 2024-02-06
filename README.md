@@ -1,4 +1,4 @@
-nsure you have Java and Maven installed on your system.
+Ensure you have Java and Maven installed on your system.
 
 Clone the repository:
 
