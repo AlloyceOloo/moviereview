@@ -4,7 +4,7 @@ Clone the repository:
 
 bash
 
-git clone github.com/AlloyceOloo/moviereview
+git clone github.com/AlloyceOloo/moviereview/tree/backend
 
 Install dependencies:
 
